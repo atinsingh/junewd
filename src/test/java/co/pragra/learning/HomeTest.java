@@ -75,4 +75,10 @@ public class HomeTest {
         System.out.println(driver.getTitle());
         driver.quit();
     }
+
+    @Test
+    public void dummyTest(){
+
+
+    }
 }
