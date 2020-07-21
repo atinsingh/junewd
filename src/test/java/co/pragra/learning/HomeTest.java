@@ -81,4 +81,9 @@ public class HomeTest {
 
 
     }
+    @Test
+    public void greeting(){
+
+    }
 }
+
