@@ -1,8 +1,8 @@
 package co.pragra.learning;
 
 public class PragraTest {
-  public void helloTest() {
-    // this is not good
+  // I want to delete this
+  public void helloTest(){
     System.out.println("All GOOd");
   }
 }
