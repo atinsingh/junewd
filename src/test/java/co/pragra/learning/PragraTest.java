@@ -5,4 +5,7 @@ public class PragraTest {
   public void helloTest(){
     System.out.println("All GOOd");
   }
+  public void greetings(){
+    System.out.println("Hello, This is Shivani");
+  }
 }
